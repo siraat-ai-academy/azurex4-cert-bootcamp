@@ -62,7 +62,7 @@ Every lab is rewritten to be:
 
 ---
 
-# 🦸‍♂️ 
+## 🦸‍♂️ 
 ---
 
 ## 🌟 **Your Journey to Azure Greatness Starts Here**  
