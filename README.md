@@ -62,11 +62,11 @@ Every lab is rewritten to be:
 
 ---
 
-## 🚀 **For the Brave Learners Beginning Their Journey**  
+## 🚀 **For the Brave Learners Beginning Their Journey **  
 
----
+## 🌟 — to Azure Greatness Starts Here**  
 
-## 🌟 **Your Journey to Azure Greatness Starts Here**  
+
 By doing these labs, you’re not just learning Azure — you’re stepping into a real-world, high-growth career path.  
 While Azure Admin roles are a great start, **Azure Security** offers a more powerful, in-demand, and higher-paying future.  
 So don’t wait. Walk this joyful path with us, learn with clarity, and reach your **shining destination** in tech.
