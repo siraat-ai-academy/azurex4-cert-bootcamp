@@ -80,6 +80,3 @@ _Content Creator | AI Writer | Narrative Simplifier_
 _With the inner voice of eks2 — the whisper behind the work._
 
 
-# Save the content to a markdown file
-file_path = Path("/mnt/data/AZ104_Masterclass_Readme.md")
-file_path.write_text(readme_content)
