@@ -76,7 +76,9 @@ So don’t wait. Walk this joyful path with us, learn with clarity, and reach yo
 
 ---
 
-## 🦸‍♂️ Meet Your Azure Heroes
+## 🦸‍♂️ 🔹 The People Behind the Path
+— Turning complex into calm.
+
 
 ### • About Muhammad Naveed Ishaque  
 *Muhammad is a content creator who believes that even shy voices can shine through writing.* His work helps beginners feel confident and calm while learning hard things like security and cloud.
