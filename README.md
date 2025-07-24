@@ -62,7 +62,7 @@ Every lab is rewritten to be:
 
 ---
 
-## 🚀 **For the Brave Learners Beginning Their Journey **  
+## 🚀 **For the Brave Learners Beginning Their Journey**  
 
 ---
 
