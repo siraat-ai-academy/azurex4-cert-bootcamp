@@ -64,7 +64,6 @@ Every lab is rewritten to be:
 
 ## 🚀 **For the Brave Learners Beginning Their Journey**  
 
----
 
 
 By doing these labs, you’re not just learning Azure — you’re stepping into a real-world, high-growth career path.  
