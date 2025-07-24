@@ -1,3 +1,4 @@
+
 # ☁️ azurex4-cert-bootcamp
 > 🚀 Your all-in-one journey through 28 Azure labs — unlocking 4 certifications with story, simplicity, and soul.
 
@@ -61,17 +62,21 @@ Every lab is rewritten to be:
 
 ---
 
-## 🦸‍♂️ 
+# 🦸‍♂️ 
 ---
 
-🌟 **Your Journey to Azure Greatness Starts Here**  
+## 🌟 **Your Journey to Azure Greatness Starts Here**  
 By doing these labs, you’re not just learning Azure — you’re stepping into a real-world, high-growth career path.  
 While Azure Admin roles are a great start, **Azure Security** offers a more powerful, in-demand, and higher-paying future.  
 So don’t wait. Walk this joyful path with us, learn with clarity, and reach your **shining destination** in tech.
 
 ---
 
-Meet Your Azure Heroes
+
+
+---
+
+## 🦸‍♂️ Meet Your Azure Heroes
 
 ### • About Muhammad Naveed Ishaque  
 *Muhammad is a content creator who believes that even shy voices can shine through writing.* His work helps beginners feel confident and calm while learning hard things like security and cloud.
