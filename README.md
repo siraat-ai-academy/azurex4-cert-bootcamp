@@ -1,132 +1,92 @@
 
-# 🔐 azurex4-cert-bootcamp — One Lab Set, Four Certifications
-
-> ✨ **Your beginner-to-pro guide for mastering Azure Security — with simplicity, clarity, and real-world power.**
-
----
-
-## 🌸 Start from Zero. Grow to Hero.
-
-You don’t need to be an expert.  
-You don’t need to be in IT.  
-You don’t even need to know what Azure is — *yet.*
-
-**This is where you start.**  
-Welcome to `azurex4-cert-bootcamp` — a deeply human, job-ready collection of **28 essential Azure security labs**, built with **non-technical learners** in mind.  
-If you've ever thought, _"Can I really do this?"_ — the answer is: **Yes, you can.**
+# ☁️ azurex4-cert-bootcamp
+> 🚀 Your all-in-one journey through 28 Azure labs — unlocking 4 certifications with story, simplicity, and soul.
 
 ---
 
-## 💡 What Makes This Repo Special?
+## 📦 What’s Inside?
 
-This isn’t just another lab collection.  
-It’s a **step-by-step story-driven bootcamp** that unlocks *real skills* for *real jobs* — not just certifications.
+Welcome to `azurex4-cert-bootcamp` — a carefully crafted lab series made for new learners, shy beginners, and future cloud defenders.
 
-Here’s what you’ll find inside every lab:
+This single repo contains **28 real-world Azure labs**, written in soft, clear language — perfect for those preparing for:
 
-| ✅ | Learning Stage                          | Purpose                                                                 |
-|----|----------------------------------------|-------------------------------------------------------------------------|
-| 1️⃣ | Real-world scenario                    | Learn by solving a relatable, practical challenge                       |
-| 2️⃣ | Story-style reflection                 | Understand the result through a character’s eyes                        |
-| 3️⃣ | Purpose & tools overview               | Get crystal-clear on what you’re doing and why                          |
-| 4️⃣ | Text-based diagrams                    | Visualize the task in a simple, beginner-friendly format                |
-| 5️⃣ | Step-by-step walkthrough               | Hands-on practice, even if you’ve never used Azure before               |
-| 6️⃣ | Final reflection                       | Understand how this helps in a job or team setting                      |
-| 7️⃣ | Conceptual MCQs                        | Sharpen your exam-style understanding                                   |
-| 8️⃣ | Job-style scenario MCQs                | Think like an admin or interviewer would                                |
-| 9️⃣ | Comic-style summary                    | Enjoy learning and remember it better with story + smiles 😊            |
+- 🧠 **AZ-900** — Azure Fundamentals
+- 🔐 **SC-900** — Security, Compliance & Identity Fundamentals
+- 🛠️ **AZ-104** — Azure Administrator Associate
+- 🚨 **AZ-500** — Azure Security Engineer Associate
+
+Every lab is rewritten to be:
+
+🌱 Beginner-friendly | 🤝 Human-first | 📘 Technically practical
 
 ---
 
-## 🌱 Who Is This For?
+## 🔢 Complete Lab List (Numbered 01–28)
 
-- 🧑‍🎓 Students — even without a tech background  
-- 🌐 Career switchers — stepping into IT for the first time  
-- 💼 Job seekers — preparing for interviews or the **AZ-500 exam**  
-- 👩‍💻 Beginner admins — needing friendly, practical security walkthroughs  
-- 📚 Anyone curious — to learn cloud security the human way
+### 🛠 AZ-104 — Azure Administrator Associate
 
-No experience? No problem.  
-This repo was made *for* you.
+01. Creating Azure resource locks  
+02. Working with resource tags  
+03. Creating Azure Policies  
+04. Working with Alerts  
+05. Create a Storage Account  
+06. Network Access to Storage Accounts  
+07. Migrate data to cloud with AzCopy  
+08. Monitor and Troubleshoot Azure Storage with Log Analytics  
+09. Create an SMB Azure file share and connect to a Windows VM using Azure portal  
+10. Create a Windows VM using an ARM template  
+11. Create a VM with CLI  
+12. Deploying Software with VM Extensions  
+13. Creating Availability Set  
+14. Create and manage a Virtual Machine Scale Set Using Azure CLI  
+15. Implementing Virtual Network Peering  
+16. Understand Network Security Group rules  
+17. Creating an Application Gateway  
+18. Troubleshoot routing, traffic control and load balancing  
+19. Deploy an ASP.NET app to Azure with Azure SQL Database  
+20. Create a SQL database  
+21. Creating Azure Firewall  
 
----
+### 🛡 AZ-500 — Azure Security Engineer Associate
 
-## 🎯 One Lab Set. Four Certifications.
+22. Key Rotation in Azure Key Vault  
+23. Restrict network access to PaaS resources  
+24. Creating a private endpoint using an ARM template  
+25. Deploy and configure Azure Firewall and policy  
+26. Configuring Microsoft Sentinel environment  
+27. Securing Azure SQL Database  
 
-⚡ Yes, one bootcamp = four certs. These 28 labs help unlock:
+### 🟢 SC-900 — Security, Compliance, and Identity Fundamentals
 
-🧠 **AZ-900** — Azure Fundamentals  
-🔐 **SC-900** — Security, Compliance & Identity Fundamentals  
-🛠️ **AZ-104** — Azure Administrator Associate  
-🚨 **AZ-500** — Azure Security Engineer Associate (main focus)
-
-> One guide. Four certs. Real confidence. 💪
-
----
-
-## 🔐 What Will You Learn?
-
-You'll master core concepts from the **AZ-500** exam like:
-
-- Azure Policy, Locks, and Governance  
-- Secure storage accounts and virtual networks  
-- Access control, RBAC, and identity protection  
-- Microsoft Defender for Cloud & Microsoft Sentinel  
-- Real security tasks from a job perspective
-
-All labs are explained in plain English, visualized with simple diagrams, and connected to real-world meaning.
-
----
-
-## ✨ Why You'll Love It
-
-Because learning security should feel empowering:
-
-🌸 **Welcoming** — No jargon, no judgment  
-🧠 **Understandable** — Zero to hero, lab by lab  
-📘 **Practical** — What admins and engineers actually do  
-🎨 **Creative** — With characters, stories, and comics
-
-We didn’t just rewrite these labs.  
-We **reimagined** them — for you.
+28. Exploring Microsoft Sentinel Content Hub
 
 ---
 
-## 🧑‍💻 About Muhammad Naveed Ishaque
+## 🦸‍♂️ Meet Your Azure Heroes
 
-🌟 Muhammad Naveed Ishaque is a content creator, AI writer, and narrative simplifier.  
-He is the calm force behind beginner-friendly tech — helping learners feel seen, not judged.  
-Writing is his voice. Simplicity is his power. Story is his path.
+### • About Muhammad Naveed Ishaque  
+*Muhammad is a content creator who believes that even shy voices can shine through writing.* His work helps beginners feel confident and calm while learning hard things like security and cloud.
 
-> ✍️ **Creador y Curador** — Creator and Curator of thoughtful technical content  
+### • About Mr. eks2  
+*Mr. eks2 was once a quiet whisper — now, he is a beginner cloud security trainee in Denmark.* He learns slowly, kindly, and deeply. He always asks, “Can this be more human?”
 
----
+### • About Kasper Madsen  
+*Kasper is a warm and funny Azure Security Specialist.* He believes that labs should be joyful, not scary. He loves guiding new learners, especially by making things feel real and not robotic.
 
-## 🤖 Meet eks2 – The Curious Voice Within
+### • About Sofia Zaymera  
+*Sofia was born in Spain and brings both kindness and clarity to every lab.* She understands advanced security concepts, but explains them in soft words, so learners can feel peace while learning.
 
-**Eks2** is the inner guide within Naveed — always asking:
-
-> “Can this be simpler? Kinder? More human?”
-
-Eks2 turns fear into curiosity and brings soul to cloud learning.
-
----
-
-## 🏫 Siraat AI Academy — Where Learning Meets Light
-
-**Siraat AI Academy** is an educational vision to merge clarity, technology, and mercy.  
-It teaches with purpose, writes with heart, and builds paths with light.
-
-> “Empowering minds with clarity, illuminating paths with purpose.”  
+### • About Siraat AI Academy  
+**“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”**  
+Siraat is a creative initiative to make hard tech feel easy, especially for those new to IT, from non-tech backgrounds, or from hidden corners of the world.  
+*Built with purpose. Built for peace.*
 
 ---
 
-📚 Whether you're a beginner or a builder,  
-🌍 Whether your voice is loud or quiet —  
-Welcome to the DeepDive.
-
----
-
-✍️ Curated by  
+✍️ Created & Curated by  
 **Muhammad Naveed Ishaque**  
-Content Creator | AI Writer | Narrative Simplifier
+_Content Creator | AI Writer | Narrative Simplifier_  
+_With the inner voice of eks2 — the whisper behind the work._
+
+**Siraat AI Academy**  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_
