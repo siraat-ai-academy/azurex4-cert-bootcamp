@@ -80,16 +80,16 @@ So don’t wait. Walk this joyful path with us, learn with clarity, and reach yo
 ### • About Muhammad Naveed Ishaque  
 *Muhammad is a content creator who believes that even shy voices can shine through writing.* His work helps beginners feel confident and calm while learning hard things like security and cloud.
 
-### • About Mr. eks2  
+### • Mr. eks2  
 *Mr. eks2 was once a quiet whisper — now, he is a beginner cloud security trainee in Denmark.* He learns slowly, kindly, and deeply. He always asks, “Can this be more human?”
 
-### • About Kasper Madsen  
+### • Kasper Madsen  
 *Kasper is a warm and funny Azure Security Specialist.* He believes that labs should be joyful, not scary. He loves guiding new learners, especially by making things feel real and not robotic.
 
-### • About Sofia Zaymera  
+### • Sofia Zaymera  
 *Sofia was born in Spain and brings both kindness and clarity to every lab.* She understands advanced security concepts, but explains them in soft words, so learners can feel peace while learning.
 
-### • About Siraat AI Academy  
+### • Siraat AI Academy  
 **“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”**  
 Siraat is a creative initiative to make hard tech feel easy, especially for those new to IT, from non-tech backgrounds, or from hidden corners of the world.  
 *Built with purpose. Built for peace.*
