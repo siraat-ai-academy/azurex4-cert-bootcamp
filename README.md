@@ -1,7 +1,3 @@
-from pathlib import Path
-
-# Define the updated README content for AZ-104 only
-readme_content = """
 # ☁️ azure-104-masterclass-labs
 > 🛠️ **Master Azure Administration with 21 Real Labs**  
 > Your journey to becoming an Azure Administrator starts here — structured, simplified, and full of confidence.
@@ -87,5 +83,3 @@ _With the inner voice of eks2 — the whisper behind the work._
 # Save the content to a markdown file
 file_path = Path("/mnt/data/AZ104_Masterclass_Readme.md")
 file_path.write_text(readme_content)
-
-file_path
