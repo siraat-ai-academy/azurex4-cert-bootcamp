@@ -1,5 +1,5 @@
 
-# ☁️ az-104-admin-cert-labs  
+# ☁️ az104-cert-success-labs  
 > 🛠️ **Mr. eks2 begins his Azure journey — to earn the Admin Badge, with clarity, care, and calm confidence**  
 > A professionally joyful lab journey for every learner of AZ-104.
 
@@ -60,43 +60,24 @@ Even if you start with zero, you are already on the **lighted path.**
 
 ## 🦸 Meet the Lab Heroes
 
+### • **Muhammad Naveed Ishaque**  
+A narrative-driven content creator from Pakistan who believes even shy voices can shine through writing.  
+He curates labs with clarity, calmness, and compassion — so beginners can feel seen and supported.  
+> ✍️ Creador y Curador — “To write is to serve. To simplify is to guide.”
 
-### • Muhammad Naveed Ishaque  
-A narrative-driven content creator originally from Pakistan, now residing in **Barcelona, Spain** with Spanish nationality.  
-He is on a journey to move to **Denmark** — not just to relocate, but to **elevate his skills** in cloud, security, and storytelling.  
-
-Naveed believes even the **shyest voices** can shine through writing.  
-He curates labs with **clarity**, **calmness**, and **compassion** — so that beginners feel **seen, safe, and supported** on their tech journey.
-
-> ✍️ *Creador y Curador* — “To write is to serve. To simplify is to guide.”
-
-
-### • Mr. eks2  
-Once just a whisper in Naveed’s heart — now a curious, quiet **Azure learner-in-training** in Denmark.  
-He watches every lab like a poem in progress. He listens deeply, takes notes slowly, and never rushes understanding.
-
-He believes even the toughest concepts deserve tenderness.  
-Where others speed through, he pauses and wonders:
-
-> “Can this be simpler? Kinder? Clearer?”
-
-Mr. eks2 doesn’t just learn cloud. He teaches us how to learn — with heart, with care, and with humility.
-
-
+### • **Mr. eks2**  
+Once just a silent whisper — now a real Azure Admin trainee in Denmark.  
+He learns slowly, asks questions softly, and always looks for **clarity, not speed**.  
+> “Can this be simpler? Kinder? More human?” — That’s his every question.
 
 ### • **Kasper Madsen**  
 A cheerful Danish Azure Administrator who teaches with calmness and light humor.  
-He believes that **Azure labs should feel like small wins**, not overwhelming hurdles.  
-His goal? To make every command, every config — feel joyful and doable.  
-With each step, Kasper brings **smiles, structure**, and a sense of **steady progress** to every learner’s journey.
+He believes labs should feel like **small victories**, not giant tasks.  
+His goal? To make every command, every config — feel joyful and doable.
 
-> "Even complex cloud tasks can feel like poetry — if taught with peace."
-
-
-### • Sofia Zaymera  
-Born in Granada, Spain, Sofia is an Azure Admin enthusiast who believes that learning should feel like a breeze — not a burden.  
-She brings a unique mix of **grace and technical clarity**, turning tough labs into soft, memorable learning moments.  
-Always calm, always helpful, she reminds us:  
+### • **Sofia Zaymera**  
+Born in Granada, Spain — Sofia brings both **grace and clarity**.  
+She explains tough labs in soft words and helps learners breathe easy through complexity.  
 > “Even firewalls can feel like flowers — if you explain them well.”
 
 ---
