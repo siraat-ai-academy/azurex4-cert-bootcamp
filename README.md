@@ -12,7 +12,7 @@ Once upon a whisper, Mr. **eks2** — the quiet echo from Naveed’s mind — lo
 As he drew closer, he noticed light beams forming letters:  
 **“AZ-104: Administrator Associate”** — a certification full of power, purpose, and potential.
 
-And so he landed. Not with fear, but with *halwa in one hand and jalwa in his eyes.*  
+And so he landed. Not with fear — but with calm in his heart, and spark in his eyes.*  
 This repo is his trail. His map. His proof that **soft learners can do hard things** — especially when labs are filled with joy, clarity, and good company.
 
 ---
