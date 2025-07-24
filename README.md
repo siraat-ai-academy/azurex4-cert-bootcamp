@@ -60,10 +60,16 @@ Even if you start with zero, you are already on the **lighted path.**
 
 ## 🦸 Meet the Lab Heroes
 
-### • **Muhammad Naveed Ishaque**  
-A narrative-driven content creator from Pakistan who believes even shy voices can shine through writing.  
-He curates labs with clarity, calmness, and compassion — so beginners can feel seen and supported.  
-> ✍️ Creador y Curador — “To write is to serve. To simplify is to guide.”
+
+### • Muhammad Naveed Ishaque  
+A narrative-driven content creator originally from Pakistan, now residing in **Barcelona, Spain** with Spanish nationality.  
+He is on a journey to move to **Denmark** — not just to relocate, but to **elevate his skills** in cloud, security, and storytelling.  
+
+Naveed believes even the **shyest voices** can shine through writing.  
+He curates labs with **clarity**, **calmness**, and **compassion** — so that beginners feel **seen, safe, and supported** on their tech journey.
+
+> ✍️ *Creador y Curador* — “To write is to serve. To simplify is to guide.”
+
 
 ### • **Mr. eks2**  
 Once just a silent whisper — now a real Azure Admin trainee in Denmark.  
