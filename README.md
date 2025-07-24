@@ -76,8 +76,8 @@ So don’t wait. Walk this joyful path with us, learn with clarity, and reach yo
 
 ---
 
-## 🦸‍♂️ 🔹 The People Behind the Path
-— Turning complex into calm.
+## 🦸‍♂️ 🔹 The Azure Learning Circle
+— Voices guiding you, step by step.
 
 
 ### • About Muhammad Naveed Ishaque  
