@@ -83,11 +83,15 @@ Where others speed through, he pauses and wonders:
 Mr. eks2 doesn’t just learn cloud. He teaches us how to learn — with heart, with care, and with humility.
 
 
+
 ### • **Kasper Madsen**  
 A cheerful Danish Azure Administrator who teaches with calmness and light humor.  
 He believes that **Azure labs should feel like small wins**, not overwhelming hurdles.  
-His goal? To make every command, every config — feel joyful and doable.
-With each step, Kasper brings smiles, structure, and a sense of steady progress to every learner’s journey.
+His goal? To make every command, every config — feel joyful and doable.  
+With each step, Kasper brings **smiles, structure**, and a sense of **steady progress** to every learner’s journey.
+
+> "Even complex cloud tasks can feel like poetry — if taught with peace."
+
 
 ### • Sofia Zaymera  
 Born in Granada, Spain, Sofia is an Azure Admin enthusiast who believes that learning should feel like a breeze — not a burden.  
