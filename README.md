@@ -1,98 +1,80 @@
+from pathlib import Path
 
-# ☁️ azurex4-cert-bootcamp
-> 🚀 Your all-in-one journey through 28 Azure labs — unlocking 4 certifications with story, simplicity, and soul.
-
----
-
-## 📦 What’s Inside?
-
-Welcome to `azurex4-cert-bootcamp` — a carefully crafted lab series made for new learners, shy beginners, and future cloud defenders.
-
-This single repo contains **28 real-world Azure labs**, written in soft, clear language — perfect for those preparing for:
-
-- 🧠 **AZ-900** — Azure Fundamentals
-- 🔐 **SC-900** — Security, Compliance & Identity Fundamentals
-- 🛠️ **AZ-104** — Azure Administrator Associate
-- 🚨 **AZ-500** — Azure Security Engineer Associate
-
-Every lab is rewritten to be:
-
-🌱 Beginner-friendly | 🤝 Human-first | 📘 Technically practical
+# Define the updated README content for AZ-104 only
+readme_content = """
+# ☁️ azure-104-masterclass-labs
+> 🛠️ **Master Azure Administration with 21 Real Labs**  
+> Your journey to becoming an Azure Administrator starts here — structured, simplified, and full of confidence.
 
 ---
 
-## 🔢 Complete Lab List (Numbered 01–28)
+## 🎯 Welcome to the AZ-104 Lab Masterclass
 
-### 🛠 AZ-104 — Azure Administrator Associate
+This repository is designed with one goal in mind:  
+To help you **learn Azure administration** through the most **clear, hands-on, and confidence-building** set of labs ever curated.
 
-01. Creating Azure resource locks  
-02. Working with resource tags  
-03. Creating Azure Policies  
-04. Working with Alerts  
-05. Create a Storage Account  
-06. Network Access to Storage Accounts  
-07. Migrate data to cloud with AzCopy  
-08. Monitor and Troubleshoot Azure Storage with Log Analytics  
-09. Create an SMB Azure file share and connect to a Windows VM using Azure portal  
-10. Create a Windows VM using an ARM template  
-11. Create a VM with CLI  
-12. Deploying Software with VM Extensions  
-13. Creating Availability Set  
-14. Create and manage a Virtual Machine Scale Set Using Azure CLI  
-15. Implementing Virtual Network Peering  
-16. Understand Network Security Group rules  
-17. Creating an Application Gateway  
-18. Troubleshoot routing, traffic control and load balancing  
-19. Deploy an ASP.NET app to Azure with Azure SQL Database  
-20. Create a SQL database  
-21. Creating Azure Firewall  
+With these **21 real-world labs**, you’ll walk the same path as professionals preparing for the **AZ-104: Azure Administrator Associate** certification — but with a twist:
 
-### 🛡 AZ-500 — Azure Security Engineer Associate
+✅ Soft English  
+✅ Beginner-friendly format  
+✅ Story-rich and practical  
+✅ Created with heart and clarity
 
-22. Key Rotation in Azure Key Vault  
-23. Restrict network access to PaaS resources  
-24. Creating a private endpoint using an ARM template  
-25. Deploy and configure Azure Firewall and policy  
-26. Configuring Microsoft Sentinel environment  
-27. Securing Azure SQL Database  
-
-### 🟢 SC-900 — Security, Compliance, and Identity Fundamentals
-
-28. Exploring Microsoft Sentinel Content Hub
+Whether you're starting fresh or polishing your skills — this is your home for AZ-104.
 
 ---
 
-## 🚀 **For the Brave Learners Beginning Their Journey**  
+## 🔢 List of 21 Labs to Make You an Azure Admin Hero
 
-
-
-By doing these labs, you’re not just learning Azure — you’re stepping into a real-world, high-growth career path.  
-While Azure Admin roles are a great start, **Azure Security** offers a more powerful, in-demand, and higher-paying future.  
-So don’t wait. Walk this joyful path with us, learn with clarity, and reach your **shining destination** in tech.
-
+1. **Creating Azure Resource Locks**  
+2. **Working with Resource Tags**  
+3. **Creating Azure Policies**  
+4. **Working with Alerts**  
+5. **Create a Storage Account**  
+6. **Network Access to Storage Accounts**  
+7. **Migrate Data to Cloud with AzCopy**  
+8. **Monitor and Troubleshoot Azure Storage with Log Analytics**  
+9. **Create an SMB Azure File Share and Connect it to a Windows VM**  
+10. **Create a Windows VM using an ARM Template**  
+11. **Create a VM with Azure CLI**  
+12. **Deploying Software with VM Extensions**  
+13. **Creating Availability Set**  
+14. **Create and Manage a Virtual Machine Scale Set Using Azure CLI**  
+15. **Implementing Virtual Network Peering**  
+16. **Understand Network Security Group Rules**  
+17. **Creating an Application Gateway**  
+18. **Troubleshoot Routing, Traffic Control and Load Balancing**  
+19. **Deploy an ASP.NET App to Azure with Azure SQL Database**  
+20. **Create a SQL Database**  
+21. **Creating Azure Firewall**
 
 ---
 
-## 🦸‍♂️ 🔹 The Azure Learning Circle
-— Voices guiding you, step by step.
+## 🦸 Meet the Minds Behind the Mission
 
-
-### • About Muhammad Naveed Ishaque  
-*Muhammad is a content creator who believes that even shy voices can shine through writing.* His work helps beginners feel confident and calm while learning hard things like security and cloud.
+### • Muhammad Naveed Ishaque  
+Content Creator | AI Writer | Narrative Simplifier  
+A voice for the silent learners. Muhammad creates content that makes hard tech feel human and reachable.
 
 ### • Mr. eks2  
-*Mr. eks2 was once a quiet whisper — now, he is a beginner cloud security trainee in Denmark.* He learns slowly, kindly, and deeply. He always asks, “Can this be more human?”
+Once just a whisper in Naveed’s heart — now a trainee Azure learner in Denmark. He asks the softest questions with the deepest meaning:  
+> “Can this be simpler? Kinder? Clearer?”
 
 ### • Kasper Madsen  
-*Kasper is a warm and funny Azure Security Specialist.* He believes that labs should be joyful, not scary. He loves guiding new learners, especially by making things feel real and not robotic.
+A warm Danish Azure Security Specialist. He believes labs should feel like discovery — not disaster.
 
 ### • Sofia Zaymera  
-*Sofia was born in Spain and brings both kindness and clarity to every lab.* She understands advanced security concepts, but explains them in soft words, so learners can feel peace while learning.
+Born in Granada, Spain. She blends grace with guidance. She brings clarity to complexity and peace to protection.
 
-### • Siraat AI Academy  
-**“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”**  
-Siraat is a creative initiative to make hard tech feel easy, especially for those new to IT, from non-tech backgrounds, or from hidden corners of the world.  
-*Built with purpose. Built for peace.*
+---
+
+## 🏫 About Siraat AI Academy
+
+**Siraat AI Academy**  
+_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_
+
+We are here for those who feel too small to start.  
+For the quiet. For the curious. For the ones who learn slowly, but deeply.
 
 ---
 
@@ -100,6 +82,10 @@ Siraat is a creative initiative to make hard tech feel easy, especially for thos
 **Muhammad Naveed Ishaque**  
 _Content Creator | AI Writer | Narrative Simplifier_  
 _With the inner voice of eks2 — the whisper behind the work._
+"""
 
-**Siraat AI Academy**  
-_“The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”_
+# Save the content to a markdown file
+file_path = Path("/mnt/data/AZ104_Masterclass_Readme.md")
+file_path.write_text(readme_content)
+
+file_path
