@@ -77,10 +77,15 @@ Once just a whisper in Naveed’s heart — now a trainee Azure learner in Denma
 > “Can this be simpler? Kinder? Clearer?”
 
 ### • Kasper Madsen  
-A warm Danish Azure Security Specialist. He believes labs should feel like discovery — not disaster.
+A warm-hearted Danish **Azure Administrator**, passionate about teaching cloud infrastructure in a calm and clear way.  
+He believes that **Azure labs should feel like small wins**, not overwhelming hurdles.  
+With each step, Kasper brings smiles, structure, and a sense of steady progress to every learner’s journey.
 
 ### • Sofia Zaymera  
-Born in Granada, Spain. She blends grace with guidance. She brings clarity to complexity and peace to protection.
+Born in Granada, Spain, Sofia is an Azure Admin enthusiast who believes that learning should feel like a breeze — not a burden.  
+She brings a unique mix of **grace and technical clarity**, turning tough labs into soft, memorable learning moments.  
+Always calm, always helpful, she reminds us:  
+> "Even complex cloud tasks can feel like poetry — if taught with peace."
 
 ---
 
