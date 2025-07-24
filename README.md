@@ -71,19 +71,28 @@ He curates labs with **clarity**, **calmness**, and **compassion** — so that b
 > ✍️ *Creador y Curador* — “To write is to serve. To simplify is to guide.”
 
 
-### • **Mr. eks2**  
-Once just a silent whisper — now a real Azure Admin trainee in Denmark.  
-He learns slowly, asks questions softly, and always looks for **clarity, not speed**.  
-> “Can this be simpler? Kinder? More human?” — That’s his every question.
+### • Mr. eks2  
+Once just a whisper in Naveed’s heart — now a curious, quiet **Azure learner-in-training** in Denmark.  
+He watches every lab like a poem in progress. He listens deeply, takes notes slowly, and never rushes understanding.
+
+He believes even the toughest concepts deserve tenderness.  
+Where others speed through, he pauses and wonders:
+
+> “Can this be simpler? Kinder? Clearer?”
+
+Mr. eks2 doesn’t just learn cloud. He teaches us how to learn — with heart, with care, and with humility.
+
 
 ### • **Kasper Madsen**  
 A cheerful Danish Azure Administrator who teaches with calmness and light humor.  
-He believes labs should feel like **small victories**, not giant tasks.  
+He believes that **Azure labs should feel like small wins**, not overwhelming hurdles.  
 His goal? To make every command, every config — feel joyful and doable.
+With each step, Kasper brings smiles, structure, and a sense of steady progress to every learner’s journey.
 
-### • **Sofia Zaymera**  
-Born in Granada, Spain — Sofia brings both **grace and clarity**.  
-She explains tough labs in soft words and helps learners breathe easy through complexity.  
+### • Sofia Zaymera  
+Born in Granada, Spain, Sofia is an Azure Admin enthusiast who believes that learning should feel like a breeze — not a burden.  
+She brings a unique mix of **grace and technical clarity**, turning tough labs into soft, memorable learning moments.  
+Always calm, always helpful, she reminds us:  
 > “Even firewalls can feel like flowers — if you explain them well.”
 
 ---
