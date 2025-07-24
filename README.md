@@ -72,9 +72,17 @@ Now, you can. With this course. With yourself. With hope.
 Content Creator | AI Writer | Narrative Simplifier  
 A voice for the silent learners. Muhammad creates content that makes hard tech feel human and reachable.
 
+
 ### • Mr. eks2  
-Once just a whisper in Naveed’s heart — now a trainee Azure learner in Denmark. He asks the softest questions with the deepest meaning:  
+Once just a whisper in Naveed’s heart — now a curious, quiet **Azure learner-in-training** in Denmark.  
+He watches every lab like a poem in progress. He listens deeply, takes notes slowly, and never rushes understanding.
+
+He believes even the toughest concepts deserve tenderness.  
+Where others speed through, he pauses and wonders:
+
 > “Can this be simpler? Kinder? Clearer?”
+
+Mr. eks2 doesn’t just learn cloud. He teaches us how to learn — with heart, with care, and with humility.
 
 ### • Kasper Madsen  
 A warm-hearted Danish **Azure Administrator**, passionate about teaching cloud infrastructure in a calm and clear way.  
